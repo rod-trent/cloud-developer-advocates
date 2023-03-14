@@ -36,8 +36,12 @@ connect:
     url: https://www.linkedin.com/in/rodtrent
   - title: YouTube
     url: https://www.youtube.com/c/RodTrent
-  - title: Newsletter
-    url: https://www.getrevue.co/profile/AzureSentinelToday
+  - title: Microsoft Security Insights Show
+    url: https://securityinsights.substack.com/
+  - title: Sentinel Newsletter
+    url: https://sentinelthisweek.substack.com/
+  - title: Defender Newsletter
+    url: https://microsoftdefender.substack.com/
 location:
   display: Middletown, OH, United States
   lat: 39.5068
